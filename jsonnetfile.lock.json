@@ -56,16 +56,6 @@
       "source": {
         "git": {
           "remote": "https://github.com/kubernetes-monitoring/kubernetes-mixin.git",
-          "subdir": ""
-        }
-      },
-      "version": "dc563cbb03da396d23bc49f33d4f7ae28db514a4",
-      "sum": "ZBRziwnNo3LPC4XhIjpWahz+gT+w3i2+klIcHx2r7d0="
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/kubernetes-monitoring/kubernetes-mixin.git",
           "subdir": "lib/promgrafonnet"
         }
       },
@@ -122,6 +112,16 @@
       "version": "983ebb4a513302315a8117932ab832815f85e3d2",
       "sum": "TBq4SL7YsPInARbJqwz25JaBvvAegcnRCsuz3K9niWc=",
       "name": "prometheus"
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/zjj2wry/kubernetes-mixin.git",
+          "subdir": ""
+        }
+      },
+      "version": "a9f9f32cba5212336ed2b474760b2421fd40635c",
+      "sum": "8uUflC/RtGzRXrpF9YRMa5KDI8pn070kD7JBiwzQ5pw="
     },
     {
       "source": {
